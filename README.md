@@ -16,10 +16,11 @@ The application includes features such as background image, styling, and dynamic
 
     bash
     git clone https://github.com/Prashanth-0/Graphical-User-Interface-GUI-using-local-host-in-web-browser.git
+
     cd Graphical-User-Interface-GUI-using-local-host-in-web-browser
 
    
-2. *Run the Application:*
+3. *Run the Application:*
 
     bash
     python app.py
