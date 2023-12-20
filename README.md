@@ -1,4 +1,4 @@
-# Nmap Command Execution Example
+# Nmap Scanner
 
 This is a simple Flask web application that allows users to execute Nmap commands and view the real-time output. 
 The application includes features such as background image, styling, and dynamic updates.
